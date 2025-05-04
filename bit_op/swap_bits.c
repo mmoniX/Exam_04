@@ -30,8 +30,7 @@ unsigned char	swap_bits(unsigned char octet)
 // #include <stdio.h>
 // int main()
 // {
-// 	unsigned char octet = 0b01000001;
-// 	// unsigned char result =  ;
+// 	unsigned char octet = 00000001;
 // 	print_bits(swap_bits(octet));
 // 	return (0);
 // }
